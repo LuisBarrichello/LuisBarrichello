@@ -1,12 +1,11 @@
 ### Olá! Eu sou Luís Gabriel 👋
 
-Estou cursando Analise e Dessenvolvimento de Sistemas, afim de me tornar programador, fui aos poucos me interessando pela area, e irei em busca de tal. 
+Um pouco sobre mim:
+Estou cursando Analise e Dessenvolvimento de Sistemas, afim de me tornar programador.
 Com amplo conhecimento em diversas areas de uma empresa e uma vontade absurda de aprender cada vez, acredito alcançar meus objetivos.
-Minhas conquistas começam desde que comecei a trabalhar como aprendiz, sempre em buscar de evoluir e aprender mais, atualmente sou formado em Tecnologia em Comércio Exterior, trabalho com vendas e desejo migrar para area de Tecnologia.
 Tenho uma experiência no setor de vendas, administrativo, faturamento e PCP pela empresa Comercial Goldoni.
-Atualmente trilhando o caminho do conhecimento e do autodesenvolvimento, sempre almejando conquistas novas e que elevam meu potencial
 
-O que não te desafia, não te evoluí
+
 
 <div align="center">
   <a href="https://github.com/LuisBarrichello">
