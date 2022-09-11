@@ -2,7 +2,7 @@
 
 Um pouco sobre mim:
 
-Estou cursando Analise e Dessenvolvimento de Sistemas, afim de me tornar programador.
+Estou cursando Analise e Desenvolvimento de Sistemas, afim de me tornar programador.
 Com amplo conhecimento em diversas areas de uma empresa e uma vontade absurda de aprender cada vez, acredito alcançar meus objetivos.
 Tenho uma experiência no setor de vendas, administrativo, faturamento e PCP pela empresa Comercial Goldoni.
 <br>
