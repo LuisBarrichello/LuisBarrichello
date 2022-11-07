@@ -12,9 +12,9 @@ Tenho uma experiência no setor de vendas, administrativo, faturamento e PCP pel
 
 <div align="center">
   <a href="https://github.com/LuisBarrichello">
-  <img width="500em" heigth="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=LuisBarrichello&theme=dracula&show_icons=true"/>
-  <img width="500em" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisBarrichello&theme=dracula&layout=compact&langs_count=7"/>
-  <img width="500em" height="180em" align="center" src="https://activity-graph.herokuapp.com/graph?username=LuisBarrichello&theme=rogue"/>
+  <img heigth="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=LuisBarrichello&theme=dracula&show_icons=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisBarrichello&theme=dracula&layout=compact&langs_count=7"/>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=LuisBarrichello&theme=rogue"/>
 </div>
 <br>
 <div style="display: inline_block">
