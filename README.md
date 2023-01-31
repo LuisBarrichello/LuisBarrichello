@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="LuisBarrichello">
 
 
-## Olá! Eu sou Luís Gabriel 👋
+## Hey! I'm Luis Gabriel 👋
 
-### Um pouco sobre mim:
+### About me:
 
-Estou cursando Analise e Desenvolvimento de Sistemas, afim de me tornar programador.<br>
-Atualmente tenho conhecimento em HTML e CSS, além disso, estou estudando Javascript para dominar essa linguagem.<br>
-Com amplo conhecimento em diversas areas de uma empresa e uma vontade absurda de aprender cada vez, acredito alcançar meus objetivos.<br>
-Tenho uma experiência no setor de vendas, administrativo, faturamento e PCP pela empresa Comercial Goldoni.
+I'm studying Systems Analysis and Development in order to become a programmer.<br>
+I currently have knowledge in HTML and CSS, in addition, I am studying Javascript to master this language.<br>
+With extensive knowledge in various areas of a company and an absurd desire to learn each time, I believe in achieving my goals.<br>
+I have experience in the sales, administrative, billing and PCP sector by The Goldoni Commercial.
 
 <br>
 <div align="center">
@@ -23,7 +23,7 @@ Tenho uma experiência no setor de vendas, administrativo, faturamento e PCP pel
 </div>
  
 <div>
-  <h2>Redes sociais</h2>
+  <h2>Social networks</h2>
   <a href="https://www.instagram.com/luisbarrichello/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:luisgbarrichelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lu%C3%ADs-gabriel-viana-barrichello-86448b195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
