@@ -1,20 +1,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="LuisBarrichello">
 
 
-## Olá, eu sou Luis Gabriel 👋
 
-### Sobre:
+<h1>Olá, eu sou Luis Gabriel 👋</h1>
 
-Cursando Bacharelado em Tecnologia da Informação, especificamente no 1º Semestre. 
-Desenvolvo projetos e estudo diariamente desde que conheci área de programação, possua saberes de Javascript, HTML, CSS, Git, Github.
+<h2>Sobre:</h2> 
 
-Com muito interesse e vontade de aprender cada vez mais sobre tecnologia e desenvolvimento de aplicações que mudam vidas.
+<p>
+  Cursando Bacharelado em Tecnologia da Informação, especificamente no 1º Semestre. 
+Desenvolvo projetos e estudo diariamente desde que conheci área de programação, possua saberes de Javascript, HTML, CSS, Git, Github e no presente meu foco é aprender e dominar futuramente tecnologias como React.js, Tailwind, e TypeScript
 
-Tenho experiência no setor de vendas, faturamento e PCP pela empresa Comercial Goldoni, mas desejo fortemente migrar para área de tecnologia e me tornar desenvolvedor.
+Sou apaixonado por tecnologia e pela arte de criar interfaces web incríveis. Estou embarcando em uma emocionante jornada para me tornar um desenvolvedor front-end de destaque, e estou pronto para aprender, crescer e contribuir para projetos inspiradores.
 
-Atualmente trilhando o caminho do conhecimento e do autodesenvolvimento, sempre almejando conquistas novas e que elevam meu potencial
+Estou ansioso para começar minha carreira como desenvolvedor front-end e estou em busca de oportunidades de estágio ou projetos iniciais que me permitam aplicar e expandir minhas habilidades.
 
-O que não te desafia, não te evoluí
+Tenho experiência no setor de vendas, faturamento e PCP pela empresa Comercial Goldoni, mas desejo fortemente migrar para área de tecnologia e me tornar desenvolvedor front end.
+</p>
 
 <br>
 <div align="center">
