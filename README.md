@@ -4,7 +4,7 @@
 
 <h1>Olá, entusiastas da tecnologia!
   Bem-vindo(a), sou Luis Gabriel</h1>
-<p>Um profissional de desenvolvimento dedicado à inovação e à resolução de desafios complexos. Dê uma olhada nas minhas contribuições no GitHub</p>
+<p>Um profissional de desenvolvimento web Front End, dedicado à inovação e à resolução de desafios complexos. Dê uma olhada nas minhas contribuições no GitHub</p>
 
 <h2>Sobre:</h2> 
 <ul>
