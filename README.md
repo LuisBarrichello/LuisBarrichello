@@ -8,7 +8,7 @@
 
 <h2>Sobre:</h2> 
 <ul>
-        <li>Cursando Bacharelado em Tecnologia da Informação, atualmente no 1º Semestre.</li>
+        <li>Cursando Bacharelado em Engenharia de Computação, atualmente no 1º Semestre.</li>
         <li>Apaixonado por tecnologia e dedicado a estudar e desenvolver projetos na área de programação.</li>
         <li>Habilidades em JavaScript, HTML, CSS, Git e GitHub, com foco em dominar React.js, Tailwind e TypeScript.</li>
         <li>Determinado a se tornar um destacado desenvolvedor front-end e contribuir para projetos inspiradores.</li>
