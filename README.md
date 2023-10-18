@@ -27,7 +27,7 @@
 </div>
 <div style="display: inline_block">
   <h3>O Que Estou Estudando / Pretendo Estudar</h3>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,sass,tailwind,ts,nodejs,mysql" />
 </div>
 
 
