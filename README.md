@@ -19,7 +19,7 @@
 <h2>Tecnologias:</h2>
 <div style="display: inline_block">
   <h3>Minhas Skills</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react" />
 </div>
 <div style="display: inline_block">
   <h3>Ferramentas</h3>
@@ -27,7 +27,7 @@
 </div>
 <div style="display: inline_block">
   <h3>O Que Estou Estudando / Pretendo Estudar</h3>
-  <img src="https://skillicons.dev/icons?i=react,sass,tailwind,ts,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=tailwind,ts,nodejs" />
 </div>
 
 
