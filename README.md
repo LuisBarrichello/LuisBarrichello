@@ -50,4 +50,9 @@
   <a href="https://www.linkedin.com/in/lu%C3%ADs-gabriel-viana-barrichello-86448b195/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+</div>
+
 <div>
+  <h2>Progress roadmap.sh</h2>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/643c45a4e2725773748f5adf?variant=dark&roadmaps=javascript%2Cjava%2Creact%2Cfrontend" alt="roadmap.sh"/></a>
+</div>
