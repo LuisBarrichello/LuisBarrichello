@@ -12,7 +12,7 @@
 ###
 
 <p align="left">
-- Cursando Bacharelado em Tecnologia da Informação na Univesp, atualmente no 3º semestre.<br>
+- Cursando Bacharelado em Engenharia de Computação na Univesp.<br>
 - Apaixonado por tecnologia e dedicado a estudar e desenvolver projetos.<br>
 - Habilidades em JavaScript, React.js, Java, Spring Boot, HTML, CSS, Git e GitHub, com conhecimentos básicos de Bootstrap e TypeScript.<br>
 - Determinado a se tornar um desenvolvedor de destaque e contribuir para projetos inspiradores.<br>
