@@ -1,145 +1,46 @@
-<h1 align="center">Bem-vindo, eu sou Luis Gabriel 👋</h1>
-
-###
-
-<p align="left">Um profissional de desenvolvimento web Full Stack, com uma base sólida em Front End e estudando Back End, dedicado à inovação e à resolução de desafios complexos. Dê uma olhada nas minhas contribuições no GitHub.</p>
-
-###
-
-
-<h2 align="left">Sobre:</h2>
-
-###
+# Luís Gabriel Barrichello
 
 <p align="left">
-- Cursando Bacharelado em Engenharia de Computação na Univesp.<br>
-- Apaixonado por tecnologia e dedicado a estudar e desenvolver projetos.<br>
-- Habilidades em JavaScript, React.js, Java, Spring Boot, HTML, CSS, Git e GitHub, com conhecimentos básicos de Bootstrap e TypeScript.<br>
-- Determinado a se tornar um desenvolvedor de destaque e contribuir para projetos inspiradores.<br>
-- Procurando oportunidades de estágio ou projetos iniciais para aplicar e expandir minhas habilidades.<br>
-- Experiência anterior no setor de vendas, faturamento e PCP, mas com forte desejo de migrar para a área de tecnologia.
+  <a href="https://www.linkedin.com/in/luisgabrielbarrichello/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:luisgbarrichelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://luisbarrichello.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-###
+### Desenvolvedor de Software | Foco em Back-End com Java & Spring | Construindo Soluções Web Escaláveis e Responsivas
 
-<h2 align="left">Tecnologias e Ferramentas</h2>
+Olá! 👋 Sou Luís Gabriel, um Desenvolvedor de Software apaixonado por transformar desafios de negócio em soluções de software eficientes e escaláveis. Minha experiência em Planejamento e Controle de Produção (PCP) e vendas me proporcionou uma visão prática para criar tecnologia que gera resultados concretos.
 
-###
+Atualmente, estou cursando **Engenharia de Computação**  e busco oportunidades de **estágio ou desenvolvimento júnior**  onde eu possa aplicar minha habilidade de resolver problemas para construir tecnologia de ponta.
 
-<h4 align="left">Linguagens de Programação</h4>
+---
 
-###
+### 🚀 Minha Stack Principal
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-</div>
+Minha expertise se concentra na construção de aplicações robustas e seguras, com foco no ecossistema Java para o back-end e React para interfaces dinâmicas.
 
-###
+| Back-End                                                                                                                            | Front-End                                                                                                                                            | Ferramentas, DevOps & OS                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/> **Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/> **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/> **Git & GitHub** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring"/> **Spring Boot** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/> **React.js** | <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="GitHub Actions"/> **GitHub Actions** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/> **PostgreSQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/> **TypeScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/> **Docker** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/> **MySQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind" /> **Tailwind CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="Ubuntu"/> **Ubuntu** |
+| | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/> **HTML5** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="Trello"/> **Trello** |
 
-<h4 align="left">Front End</h4>
+---
 
-###
+### ✨ Projetos em Destaque
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-</div>
+Aqui estão alguns projetos que demonstram meu foco em resolver problemas práticos com tecnologia.
 
-###
+| Projeto                                                                    | Descrição                                                                                                                                                                                                                         | Tecnologias                                           |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| **Sistema de Otimização de Materiais** <br/> _(Case de Impacto Real)_   | Criei um sistema desktop em **Java com JavaFX** para otimizar o aproveitamento de sobras de materiais na indústria, **reduzindo desperdícios** e automatizando um processo que antes era manual e demorado[cite: 17]. Link para o [Repositório](https://github.com/LuisBarrichello/bar-optimization-system)              | `Java`, `JavaFX`, `SceneBuilder`                      |
+|  Steel Sales Calculator **Web app de Cálculo de peso de Materiais** <br/> _(Case de Produtividade)_ | Desenvolvi um web app com **React.js e TypeScript** que **diminuiu em 40%** o tempo que a equipe gastava em cálculos de materiais de construção, agilizando o processo de orçamentos e vendas[cite: 9]. Link para o [Repositório](https://github.com/LuisBarrichello/SteelSalesCalculator)                              | `React.js`, `TypeScript`, `Bootstrap`                 |
+| 🛒 **E-commerce API com Spring Boot** <br/> _(Projeto Back-End)_            | Desenvolvi uma API RESTful completa para um e-commerce, com funcionalidades de autenticação JWT, gestão de produtos, pedidos e usuários, seguindo as melhores práticas de arquitetura de software. Link para o [Repositório](https://github.com/LuisBarrichello/ecommerce-api-springboot). | `Java`, `Spring Boot`, `JPA`, `PostgreSQL`, `Maven`     |
 
-<h4 align="left">Back End</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-</div>
-
-###
-
-<h4 align="left">Ferramentas de Desenvolvimento</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-</div>
-
-###
-
-<h4 align="left">Outras Ferramentas</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
-</div>
-
-###
-
-<h2 align="left">Projetos em Destaque</h2>
-
-###
-
-<p align="left">
-Aqui estão alguns projetos que eu desenvolvi recentemente e que demonstram minhas habilidades e interesses:
-<ul>
-  <li><a href="https://github.com/LuisBarrichello/ecommerce-api-springboot">E-commerce - API REST com Spring Boot</a> - API RESTful de E-commerce desenvolvida com Spring Boot, oferecendo funcionalidades de autenticação, gestão de produtos, pedidos e integração com métodos de pagamento, e pretendo criar chat em tempo real entre lojista e clientes.</li>
-  <li><a href="https://github.com/LuisBarrichello/Challenge-API-REST-ForumHub">FórumHub - API REST com Spring</a> - Este é o FórumHub, um projeto de API REST desenvolvido com Spring para gerenciar tópicos de discussão em um fórum. A API permite a criação, listagem, atualização e exclusão de tópicos, usuários, cursos e respostas, seguindo as melhores práticas do modelo REST.</li>
-  <li><a href="https://github.com/LuisBarrichello/BestBrowserGames">Best Browser Games</a> - É uma aplicação web desenvolvida em React, criada como uma comunidade online para avaliação e compartilhamento de experiências relacionadas a jogos de navegador (browser games).</li>
-</ul>
-</p>
-
-###
-
-<h2 align="left">Redes Sociais</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/luisgabrielbarrichello/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:luisgabrielbarrichello@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://www.instagram.com/dev.barrichello/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo" />
-  </a>
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisbarrichello&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=luisbarrichello&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisbarrichello&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbarrichello&layout=compact&langs_count=6&theme=dracula" alt="Linguagens mais usadas"/>
 </div>
-
-###
-
-<p align="left">
-Sinta-se à vontade para explorar meus repositórios e entrar em contato para possíveis colaborações ou apenas para bater um papo sobre tecnologia!
-</p>
